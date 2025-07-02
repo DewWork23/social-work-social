@@ -23,7 +23,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://jdew.github.io/social-work-social",
+  "homepage": "https://dewwork23.github.io/social-work-social",
   "eslintConfig": {
     "extends": [
       "react-app",
